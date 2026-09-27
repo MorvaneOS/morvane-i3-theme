@@ -1,0 +1,5 @@
+# Your i3 config. The MorvaneOS default, i3's own defaults in the MorvaneOS look, comes
+# from morvane-i3-theme and follows its updates. Add your own settings below it; later
+# lines override earlier ones. To start from a full copy instead, replace the include
+# with the contents of /usr/share/morvane-i3-theme/config.
+include /usr/share/morvane-i3-theme/config
